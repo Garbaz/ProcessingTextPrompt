@@ -1,6 +1,7 @@
 
 void setup() {
-  println(TextPrompt.prompt("Name:",3));
+  String name = TextPrompt.prompt("Name:",3); 
+  println("Your name: " + name);
   println("DONE!");
 }
 
