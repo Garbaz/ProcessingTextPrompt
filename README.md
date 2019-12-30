@@ -11,5 +11,5 @@ Usage
 ```java
 TextPrompt.prompt("YOUR MESSAGE/QUESTION TO BE SHOWN");
 //or
-TextPrompt.prompt("YOUR MESSAGE", NUM); // where NUM is the minimum number of characters the user as to type in.
+TextPrompt.prompt("YOUR MESSAGE", NUM); // where NUM is the minimum number of characters of the input.
 ```
