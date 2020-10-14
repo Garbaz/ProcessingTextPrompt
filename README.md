@@ -13,3 +13,8 @@ TextPrompt.prompt("YOUR MESSAGE/QUESTION TO BE SHOWN");
 //or
 TextPrompt.prompt("YOUR MESSAGE", NUM); // where NUM is the minimum number of characters of the input.
 ```
+
+Example Image
+---
+
+![Example Image](/Screenshot.png)
